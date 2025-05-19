@@ -20,3 +20,6 @@ lines
 
 (Do not exist in Python)
 ` <CONSTANT> = <value>`
+
+### Relational operators
+ `==, >, <, <=, >=, !=`

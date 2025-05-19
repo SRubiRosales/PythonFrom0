@@ -40,3 +40,11 @@ print(type(is_active))
 
 VERSION = 3.13
 print(VERSION)
+
+# Relational operators
+number_one = 10
+number_two = 20.0
+compare = number_one == number_two
+print(compare)
+print(type(compare))
+print(number_one < number_two)
