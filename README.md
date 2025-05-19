@@ -26,3 +26,7 @@ lines
 
 ### Logic operators
  `and, or, not`
+
+### Keyboard input
+Return an string input from keyboard
+`input("Message")`

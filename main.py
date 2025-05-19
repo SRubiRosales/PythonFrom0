@@ -75,3 +75,6 @@ compare = not(
     or (number_one > 100 and number_two > 200)
 )
 print(compare) # True
+
+message = input("Input your name: ") # Str
+print("Hello, ", message)
