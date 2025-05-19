@@ -23,9 +23,15 @@ number = 100_000_000
 print(type(age))
 print(number)
 
+a = 10
+result = a + 10
+print("Result is: ", result)
+print(result//10)
+
 # Floats +-
 pi = 3.1416
 print(type(pi))
+print(result/10)
 
 # Booleans (True | False)
 is_active = True
