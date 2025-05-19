@@ -78,3 +78,12 @@ print(compare) # True
 
 message = input("Input your name: ") # Str
 print("Hello, ", message)
+
+first_name = input("Name: ")
+age = int(input("Age: "))
+height = float(input("Height: "))
+status = input("Is your user active? (y/n) ") == "y"
+print(first_name)
+print(age)
+print(height)
+print(status)

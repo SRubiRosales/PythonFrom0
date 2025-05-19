@@ -30,3 +30,10 @@ lines
 ### Keyboard input
 Return an string input from keyboard
 `input("Message")`
+
+### Generate new data types
+~~~
+int()
+float()
+str()
+~~~
