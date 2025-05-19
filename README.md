@@ -12,3 +12,6 @@ more
 lines
 """
 ~~~
+
+### Variables
+` <var_in_snake_case> = <value> `
