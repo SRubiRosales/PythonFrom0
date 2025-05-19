@@ -31,3 +31,6 @@ print(type(pi))
 is_active = True
 print(is_active)
 print(type(is_active))
+
+VERSION = 3.13
+print(VERSION)

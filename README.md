@@ -15,3 +15,8 @@ lines
 
 ### Variables
 ` <var_in_snake_case> = <value> `
+
+### Constants
+
+(Do not exist in Python)
+` <CONSTANT> = <value>`
