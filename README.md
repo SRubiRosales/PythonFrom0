@@ -23,3 +23,6 @@ lines
 
 ### Relational operators
  `==, >, <, <=, >=, !=`
+
+### Logic operators
+ `and, or, not`

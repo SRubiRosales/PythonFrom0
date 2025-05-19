@@ -48,3 +48,30 @@ compare = number_one == number_two
 print(compare)
 print(type(compare))
 print(number_one < number_two)
+
+# Logic operators
+print(True and True) # True
+print(True and True and number_one == number_two) # False
+print(True and True and number_one != number_two) # True
+print(True 
+      and True 
+      and number_one != number_two 
+      and number_one < 100 
+      and number_two > 200) # False
+print(True or True) # True
+print(False 
+      and False 
+      and number_one == number_two 
+      and number_one < 100 
+      and number_two > 200) # True
+print(not True) # False
+print(not False) # True
+print(not not True) # True
+print(not not not True) # False
+compare = not(
+    (number_one == number_two and True)
+    and (number_one < 100)
+    and (number_two < 100)
+    or (number_one > 100 and number_two > 200)
+)
+print(compare) # True
