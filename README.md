@@ -15,6 +15,7 @@ lines
 
 ### Variables
 ` <var_in_snake_case> = <value> `
+` <var_1>, <var_2>, <var_3> = <value_1>, <value_2>, <value_3>`
 
 ### Constants
 

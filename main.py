@@ -87,3 +87,8 @@ print(first_name)
 print(age)
 print(height)
 print(status)
+
+mail, cp, is_admin = "srosales@mail.com", 29000, True
+print(mail)
+print(cp)
+print(is_admin)
